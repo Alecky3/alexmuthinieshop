@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 960 560" style="enable-background:new 0 0 960 560;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0091F4;}
+	.st1{fill:url(#XMLID_23_);}
+	.st2{fill:#C279FF;}
+	.st3{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st4{fill:none;}
+	.st5{fill:#1BFF69;}
+	.st6{fill:#9974FF;}
+	.st7{fill:#AD74FF;}
+	.st8{fill:#31FF33;}
+	.st9{fill:#EEFFE3;}
+	.st10{font-family:'MyriadPro-Regular';}
+	.st11{font-size:42px;}
+</style>
+<rect id="XMLID_4_" class="st0" width="960" height="560"/>
+<image style="overflow:visible;" width="400" height="267" id="XMLID_1_" xlink:href="pic6.jpg"  transform="matrix(1.1853 0 0 1.221 285.8727 39)">
+</image>
+<radialGradient id="XMLID_23_" cx="530.5" cy="195.5" r="128.807" gradientUnits="userSpaceOnUse">
+	<stop  offset="0.7388" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	<stop  offset="0.8057" style="stop-color:#FFFFFF;stop-opacity:0.4301"/>
+	<stop  offset="0.8165" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
+	<stop  offset="0.8231" style="stop-color:#DBC01F"/>
+	<stop  offset="0.8304" style="stop-color:#F1DC3A"/>
+	<stop  offset="0.835" style="stop-color:#F5E13F"/>
+	<stop  offset="0.8386" style="stop-color:#DBC01F"/>
+	<stop  offset="0.8523" style="stop-color:#E1CB46"/>
+	<stop  offset="0.872" style="stop-color:#E9D976"/>
+	<stop  offset="0.8922" style="stop-color:#F0E4A0"/>
+	<stop  offset="0.9126" style="stop-color:#F5EEC3"/>
+	<stop  offset="0.9332" style="stop-color:#FAF5DD"/>
+	<stop  offset="0.9543" style="stop-color:#FDFBF0"/>
+	<stop  offset="0.976" style="stop-color:#FEFEFB"/>
+	<stop  offset="0.9993" style="stop-color:#FFFFFF"/>
+</radialGradient>
+<path id="XMLID_42_" class="st1" d="M679,195.5c0,58.3-66.5,105.5-148.5,105.5c-58.8,0-109.5-24.2-133.6-59.4
+	c-9.5-13.9-14.9-29.5-14.9-46.1c0-14.6,4.2-28.5,11.7-41.2C416.3,116.5,469,90,530.5,90C612.5,90,679,137.2,679,195.5z"/>
+<polygon id="XMLID_45_" class="st2" points="116.2,560 0,560 0,403.5 33.5,419 99.8,534 113.8,534 "/>
+<polygon id="XMLID_28_" class="st3" points="800.5,560 798.8,560 713.5,412 715.2,412 "/>
+<path id="XMLID_39_" class="st4" d="M416,178.1l-19.1,63.5c-9.5-13.9-14.9-29.5-14.9-46.1c0-14.6,4.2-28.5,11.7-41.2L416,178.1z"/>
+<polygon id="XMLID_18_" class="st2" points="329.6,431 270.2,534 145.8,534 189.1,442.3 "/>
+<polygon id="XMLID_38_" class="st2" points="113.8,534 99.8,534 33.5,419 106.3,452.8 "/>
+<polygon id="XMLID_36_" class="st2" points="355.5,386 329.6,431 189.1,442.8 145.8,535 113.8,535 106.3,453.3 33.5,419.8 14.5,387 
+	113.2,387 148.5,325.3 200.8,380.8 334.3,349.4 "/>
+<polygon id="XMLID_29_" class="st2" points="148.5,324.8 113.2,386 14.5,386 87.4,259.5 "/>
+<polygon id="XMLID_17_" class="st5" points="960,0 960,244 844.8,244 759.5,96 814.8,0 "/>
+<polygon id="XMLID_22_" class="st3" points="800.5,560 798.8,560 713.5,412 715.2,412 "/>
+<line id="XMLID_15_" class="st4" x1="800" y1="560" x2="799" y2="560"/>
+<polyline id="XMLID_14_" class="st4" points="133,560 133,560 116,560 "/>
+<polyline id="XMLID_19_" class="st4" points="450,560 459.5,560 460,560 "/>
+<polygon id="XMLID_33_" class="st6" points="798.8,560 459.5,560 544.8,412 713.5,412 "/>
+<polygon id="XMLID_34_" class="st7" points="960,264 960,560 800.5,560 715.2,412 713.5,412 798.8,264 "/>
+<polygon id="XMLID_20_" class="st2" points="449.5,560 104.1,560 117.5,534 253.6,534 318.4,431 350.6,428.6 "/>
+<polyline id="XMLID_12_" class="st4" points="960,264 960,244 960,0 "/>
+<polyline id="XMLID_16_" class="st4" points="960,0 814.8,0 0,0 "/>
+<polygon id="XMLID_31_" class="st2" points="33.5,419 0,403.5 0,386 14.5,386 "/>
+<line id="XMLID_10_" class="st4" x1="0" y1="403" x2="0" y2="403"/>
+<polyline id="XMLID_9_" class="st4" points="0,386 0,90 0,0 "/>
+<polygon id="XMLID_5_" class="st8" points="317,228.3 207.5,295.8 94.4,234.7 90.7,106.2 200.1,38.7 313.3,99.8 "/>
+<rect id="XMLID_6_" x="121.6" y="128.6" class="st4" width="177" height="91.5"/>
+<text id="XMLID_7_" transform="matrix(1 0 0 1 181.8174 158.418)"><tspan x="0" y="0" class="st9 st10 st11">ON </tspan><tspan x="-28.3" y="50.4" class="st9 st10 st11">OFFER</tspan></text>
+<rect id="XMLID_11_" x="771.3" y="56.6" class="st4" width="177" height="91.5"/>
+<text id="XMLID_8_" transform="matrix(1 0 0 1 821.5828 86.4216)"><tspan x="0" y="0" class="st9 st10 st11">40%</tspan><tspan x="3.3" y="50.4" class="st9 st10 st11">OFF</tspan></text>
+</svg>

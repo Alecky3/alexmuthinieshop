@@ -1,0 +1,116 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background: rgb(248, 232, 232);
+}
+.container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-wrapper{
+   padding: 5px;
+   min-width: 300px;
+   max-width: 500px;
+   width: 500px;
+   height: 300px;
+   color: rgb(6, 0, 19);
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 14px;
+   text-transform: capitalize;
+   background: rgb(245 230 226);
+   box-shadow: rgb(196 195 197) 0 0 20px 0;
+  
+}
+legend{
+text-align: center	;
+font-size: x-large;
+}
+fieldset{
+    width: 100%;
+    height: 100%;
+    border: none;
+    padding: 20px;
+}
+fieldset p{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+fieldset input{
+    padding: 5px;
+    border: none;
+    border-bottom:1px solid rgb(6, 0, 19);
+    background: transparent;
+    outline: none;
+    flex: 1;
+    margin-right: 5px;
+    color: rgb(6, 0, 19);
+    
+}
+fieldset input:focus{
+    transition: border-bottom 3ms ease-in;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid blueviolet;
+}
+fieldset input::placeholder{
+    color: #a9a2a2;
+}
+fieldset label{
+    flex: 0.5;
+    margin-left: 5px;
+}
+ fieldset p{
+  margin-top: 20px;
+}
+.submit-button{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+fieldset button{
+    margin-top: 20px;
+    padding: 10px;
+    width: 50%;
+    text-align: center;
+    border:1px none;
+    outline: none;
+    color: rgb(6, 0, 19);
+    border-radius: 5%;
+    background: rgb(248, 232, 232);
+    box-shadow: #a9a2a2 0 0 100px;
+}
+fieldset button:hover{
+    background: rgb(6, 0, 19);
+    color: #fff;
+}
+form{
+    width: 100%;
+    height: 100%;
+}
+.login-bottom{
+    margin-top: 10px;
+}
+.login-bottom p{
+    text-align: center;
+}
+.login-bottom a{
+    text-decoration: none;
+    margin: 5px;
+    text-transform: capitalize;
+    color:rgb(6, 0, 19);
+}
+.login-bottom a:hover{
+    color: #17e81a;
+}

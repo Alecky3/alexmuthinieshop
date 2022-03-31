@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    background: rgb(2, 5, 39);
+    color: rgb(238, 235, 235);
+    font-family: sans-serif;
+}
+.wrapper{
+    display: grid;
+    grid-template-columns: [column-start] 1fr [col2-start] 1fr [col3-start] 1fr [cols-end];
+    grid-template-rows: [row-start] 100px [row2-start] 100px [rows-end];
+}
+.item{
+    background: rgb(7, 2, 56);
+    box-shadow: rgb(4, 3, 71) 1px 1px 10px 2px;
+    grid-row-start: row-start;
+    grid-row-end: rows-end;
+    grid-column-start: column-start;
+    grid-column-end: cols-end;
+}

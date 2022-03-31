@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 960 560" style="enable-background:new 0 0 960 560;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#XMLID_49_);}
+	.st1{fill:none;stroke:#000108;stroke-width:5;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000216;stroke-width:5;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#010010;stroke-width:4;stroke-miterlimit:10;}
+	.st4{fill:none;}
+	.st5{font-family:'MyriadPro-Regular';}
+	.st6{font-size:16px;}
+	.st7{fill:#F2F2F2;}
+	.st8{font-size:20px;}
+	.st9{fill:#FFFFFF;}
+	.st10{font-size:18px;}
+	.st11{fill:none;stroke:#010010;stroke-width:5.3824;stroke-miterlimit:10;}
+	.st12{fill:url(#XMLID_50_);}
+	.st13{fill:url(#XMLID_51_);}
+	.st14{fill:url(#XMLID_52_);}
+	.st15{fill:#6200A2;}
+	.st16{fill:#7200E7;}
+	.st17{fill:#7400A2;}
+	.st18{fill:#0015E7;}
+</style>
+<linearGradient id="XMLID_49_" gradientUnits="userSpaceOnUse" x1="0" y1="277" x2="960" y2="277">
+	<stop  offset="0" style="stop-color:#CCE0F4"/>
+	<stop  offset="6.405089e-002" style="stop-color:#C3DCF2"/>
+	<stop  offset="0.1706" style="stop-color:#A9D2EE"/>
+	<stop  offset="0.3066" style="stop-color:#80C2E7"/>
+	<stop  offset="0.4649" style="stop-color:#47ACDE"/>
+	<stop  offset="0.5674" style="stop-color:#1E9CD7"/>
+	<stop  offset="0.8652" style="stop-color:#0075BE"/>
+	<stop  offset="0.9944" style="stop-color:#005B97"/>
+</linearGradient>
+<rect id="XMLID_1_" y="-3" class="st0" width="960" height="560"/>
+<circle id="XMLID_2_" class="st1" cx="173" cy="300.7" r="43"/>
+<circle id="XMLID_3_" class="st1" cx="173" cy="300.7" r="29"/>
+<circle id="XMLID_5_" class="st2" cx="445" cy="300.7" r="43"/>
+<circle id="XMLID_4_" class="st2" cx="445" cy="300.7" r="29"/>
+<circle id="XMLID_6_" class="st1" cx="173" cy="300.7" r="29"/>
+<circle id="XMLID_9_" class="st3" cx="728" cy="300.7" r="43"/>
+<circle id="XMLID_8_" class="st3" cx="728" cy="300.7" r="29"/>
+<rect id="XMLID_7_" x="109" y="212" class="st4" width="128" height="32"/>
+<text id="XMLID_10_" transform="matrix(1 0 0 1 111.585 223.3599)" class="st5 st6">Create an Account</text>
+<rect id="XMLID_16_" x="341" y="214" class="st4" width="208" height="28"/>
+<text id="XMLID_11_" transform="matrix(1 0 0 1 341 228.1997)" class="st7 st5 st8">upload your products</text>
+<rect id="XMLID_13_" x="690" y="356.3" class="st4" width="146" height="45.7"/>
+<text id="XMLID_12_" transform="matrix(1 0 0 1 695.3213 369.0576)"><tspan x="0" y="0" class="st9 st5 st10">Sell  and advertise </tspan><tspan x="15.1" y="21.6" class="st9 st5 st10">your products</tspan></text>
+<line id="XMLID_14_" class="st3" x1="216" y1="301" x2="402" y2="301"/>
+<line id="XMLID_15_" class="st3" x1="488" y1="301" x2="685" y2="301"/>
+<line id="XMLID_40_" class="st11" x1="160.9" y1="202.6" x2="160.5" y2="202"/>
+<radialGradient id="XMLID_50_" cx="818.26" cy="137.9937" r="137.9937" gradientUnits="userSpaceOnUse">
+	<stop  offset="0.7388" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	<stop  offset="0.8057" style="stop-color:#FFFFFF;stop-opacity:0.4301"/>
+	<stop  offset="0.8165" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
+	<stop  offset="0.8231" style="stop-color:#DBC01F"/>
+	<stop  offset="0.8304" style="stop-color:#F1DC3A"/>
+	<stop  offset="0.835" style="stop-color:#F5E13F"/>
+	<stop  offset="0.8386" style="stop-color:#DBC01F"/>
+	<stop  offset="0.8523" style="stop-color:#E1CB46"/>
+	<stop  offset="0.872" style="stop-color:#E9D976"/>
+	<stop  offset="0.8922" style="stop-color:#F0E4A0"/>
+	<stop  offset="0.9126" style="stop-color:#F5EEC3"/>
+	<stop  offset="0.9332" style="stop-color:#FAF5DD"/>
+	<stop  offset="0.9543" style="stop-color:#FDFBF0"/>
+	<stop  offset="0.976" style="stop-color:#FEFEFB"/>
+	<stop  offset="0.9993" style="stop-color:#FFFFFF"/>
+</radialGradient>
+<polygon id="XMLID_18_" class="st12" points="818.3,0 829.1,69.8 860.9,6.8 849.6,76.5 899.4,26.4 867,89.2 929.9,56.9 879.7,106.7 
+	949.5,95.4 886.4,127.2 956.3,138 886.4,148.8 949.5,180.6 879.7,169.3 929.9,219.1 867,186.8 899.4,249.6 849.6,199.5 860.9,269.2 
+	829.1,206.1 818.3,276 807.5,206.1 775.6,269.2 786.9,199.5 737.1,249.6 769.5,186.8 706.6,219.1 756.8,169.3 687,180.6 
+	750.1,148.8 680.3,138 750.1,127.2 687,95.4 756.8,106.7 706.6,56.9 769.5,89.2 737.1,26.4 786.9,76.5 775.6,6.8 807.5,69.8 "/>
+<radialGradient id="XMLID_51_" cx="292.76" cy="285.5" r="282.5" gradientUnits="userSpaceOnUse">
+	<stop  offset="0.7388" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	<stop  offset="0.8057" style="stop-color:#FFFFFF;stop-opacity:0.4301"/>
+	<stop  offset="0.8165" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
+	<stop  offset="0.8231" style="stop-color:#DBC01F"/>
+	<stop  offset="0.8304" style="stop-color:#F1DC3A"/>
+	<stop  offset="0.835" style="stop-color:#F5E13F"/>
+	<stop  offset="0.8386" style="stop-color:#DBC01F"/>
+	<stop  offset="0.8523" style="stop-color:#E1CB46"/>
+	<stop  offset="0.872" style="stop-color:#E9D976"/>
+	<stop  offset="0.8922" style="stop-color:#F0E4A0"/>
+	<stop  offset="0.9126" style="stop-color:#F5EEC3"/>
+	<stop  offset="0.9332" style="stop-color:#FAF5DD"/>
+	<stop  offset="0.9543" style="stop-color:#FDFBF0"/>
+	<stop  offset="0.976" style="stop-color:#FEFEFB"/>
+	<stop  offset="0.9993" style="stop-color:#FFFFFF"/>
+</radialGradient>
+<polygon id="XMLID_17_" class="st13" points="292.8,3 314.9,146 380.1,16.8 356.9,159.6 458.8,57 392.6,185.6 521.3,119.5 
+	418.6,221.4 561.4,198.2 432.3,263.4 575.3,285.5 432.3,307.6 561.4,372.8 418.6,349.6 521.3,451.5 392.6,385.4 458.8,514 
+	356.9,411.4 380.1,554.2 314.9,425 292.8,568 270.7,425 205.5,554.2 228.6,411.4 126.7,514 192.9,385.4 64.2,451.5 166.9,349.6 
+	24.1,372.8 153.2,307.6 10.3,285.5 153.2,263.4 24.1,198.2 166.9,221.4 64.2,119.5 192.9,185.6 126.7,57 228.6,159.6 205.5,16.8 
+	270.7,146 "/>
+<radialGradient id="XMLID_52_" cx="831.5579" cy="436.2473" r="119.0378" gradientUnits="userSpaceOnUse">
+	<stop  offset="0.7388" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	<stop  offset="0.8057" style="stop-color:#FFFFFF;stop-opacity:0.4301"/>
+	<stop  offset="0.8165" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
+	<stop  offset="0.8231" style="stop-color:#DBC01F"/>
+	<stop  offset="0.8304" style="stop-color:#F1DC3A"/>
+	<stop  offset="0.835" style="stop-color:#F5E13F"/>
+	<stop  offset="0.8386" style="stop-color:#DBC01F"/>
+	<stop  offset="0.8523" style="stop-color:#E1CB46"/>
+	<stop  offset="0.872" style="stop-color:#E9D976"/>
+	<stop  offset="0.8922" style="stop-color:#F0E4A0"/>
+	<stop  offset="0.9126" style="stop-color:#F5EEC3"/>
+	<stop  offset="0.9332" style="stop-color:#FAF5DD"/>
+	<stop  offset="0.9543" style="stop-color:#FDFBF0"/>
+	<stop  offset="0.976" style="stop-color:#FEFEFB"/>
+	<stop  offset="0.9993" style="stop-color:#FFFFFF"/>
+</radialGradient>
+<polygon id="XMLID_19_" class="st14" points="831.6,317.2 840.9,377.5 868.3,323 858.6,383.2 901.5,339.9 873.6,394.2 927.9,366.3 
+	884.6,409.2 944.8,399.5 890.3,426.9 950.6,436.2 890.3,445.6 944.8,473 884.6,463.3 927.9,506.2 873.6,478.3 901.5,532.6 
+	858.6,489.3 868.3,549.5 840.9,495 831.6,555.3 822.2,495 794.8,549.5 804.5,489.3 761.6,532.6 789.5,478.3 735.3,506.2 
+	778.5,463.3 718.3,473 772.8,445.6 712.5,436.2 772.8,426.9 718.3,399.5 778.5,409.2 735.3,366.3 789.5,394.2 761.6,339.9 
+	804.5,383.2 794.8,323 822.2,377.5 "/>
+<rect id="XMLID_32_" x="516" y="28.7" class="st4" width="118.6" height="84.6"/>
+<g id="XMLID_26_">
+	<g id="XMLID_28_">
+		<polygon id="XMLID_36_" class="st15" points="764.5,100.7 764.5,172 735.1,172 735.1,71 		"/>
+	</g>
+	<g id="XMLID_27_">
+		<line id="XMLID_29_" class="st4" x1="814.1" y1="150.8" x2="814.1" y2="150.8"/>
+		<polygon id="XMLID_35_" class="st16" points="814.1,115.9 796.9,133.4 764.5,100.7 735.1,71 769.6,71 		"/>
+		<line id="XMLID_31_" class="st4" x1="831.3" y1="133.4" x2="831.3" y2="133.4"/>
+	</g>
+</g>
+<g id="XMLID_23_">
+	<polygon id="XMLID_34_" class="st17" points="893.1,71 893.1,172 863.7,172 863.7,100.7 	"/>
+</g>
+<g id="XMLID_22_">
+	<line id="XMLID_30_" class="st4" x1="221.8" y1="317" x2="221.8" y2="317"/>
+	<line id="XMLID_25_" class="st4" x1="229.6" y1="309" x2="229.6" y2="309"/>
+</g>
+<polygon id="XMLID_33_" class="st18" points="893.1,71 863.7,100.7 831.3,133.4 796.9,133.4 814.1,115.9 858.6,71 "/>
+<line id="XMLID_24_" class="st4" x1="221.8" y1="317" x2="221.8" y2="317"/>
+<line id="XMLID_21_" class="st4" x1="230.6" y1="309" x2="229.6" y2="309"/>
+<polygon id="XMLID_20_" class="st9" points="283.7,307.3 288.1,307.3 288.1,307.3 "/>
+<g id="XMLID_41_">
+	<g id="XMLID_46_">
+		<polygon id="XMLID_47_" class="st15" points="26,36.9 26,108.6 10.3,108.6 10.3,7 		"/>
+	</g>
+	<g id="XMLID_42_">
+		<line id="XMLID_45_" class="st4" x1="52.6" y1="87.3" x2="52.6" y2="87.3"/>
+		<polygon id="XMLID_44_" class="st16" points="52.6,52.2 43.4,69.8 26,36.9 10.3,7 28.8,7 		"/>
+		<line id="XMLID_43_" class="st4" x1="61.8" y1="69.8" x2="61.8" y2="69.8"/>
+	</g>
+</g>
+<g id="XMLID_38_">
+	<polygon id="XMLID_39_" class="st17" points="94.9,7 94.9,108.6 79.2,108.6 79.2,36.9 	"/>
+</g>
+<polygon id="XMLID_37_" class="st18" points="94.9,7 79.2,36.9 61.8,69.8 43.4,69.8 52.6,52.2 76.4,7 "/>
+</svg>

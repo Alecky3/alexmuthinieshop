@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Translate1</title>
+    <style>
+        .div1{
+            background: #000;
+            color: #fff;
+            display: inline-block;
+            width: 200px;
+            height: 200px;
+            text-align: center;
+            margin: 5px;
+        }
+        .animate{
+            animation: translate1 1s ease-in 400ms alternate-reverse;
+        }
+        
+        @keyframes translate1 {
+            0%{
+                transform: translate(0,0);
+            }
+            100%{
+                transform: translate(0,-30px);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="div1">
+        Lorem ipsum dolor sit amet consectetur, 
+        adipisicing elit. Reprehenderit, laboriosam.
+    </div>
+    <div class="div1">
+        Lorem ipsum dolor sit amet consectetur, 
+        adipisicing elit. Reprehenderit, laboriosam.
+    </div>
+    <div class="div1">
+        Lorem ipsum dolor sit amet consectetur, 
+        adipisicing elit. Reprehenderit, laboriosam.
+    </div>
+    <div class="div1">
+        Lorem ipsum dolor sit amet consectetur, 
+        adipisicing elit. Reprehenderit, laboriosam.
+    </div>
+    <div class="div1">
+        Lorem ipsum dolor sit amet consectetur, 
+        adipisicing elit. Reprehenderit, laboriosam.
+    </div>
+    <div class="div1">
+        Lorem ipsum dolor sit amet consectetur, 
+        adipisicing elit. Reprehenderit, laboriosam.
+    </div>
+    <div class="div1">
+        Lorem ipsum dolor sit amet consectetur, 
+        adipisicing elit. Reprehenderit, laboriosam.
+    </div>
+    <div class="div1">
+        Lorem ipsum dolor sit amet consectetur, 
+        adipisicing elit. Reprehenderit, laboriosam.
+    </div>
+    <script>
+        window.addEventListener('scroll',()=>{
+         var divs=document.querySelectorAll('.div1')
+            for(let i=0;i<divs.length;i++){
+                divs[i].classList.add('animate');
+                if(window.pageYOffset===document.body.scrollHeight-innerHeight || window.pageYOffset===0){
+                    for(let i=0;i<divs.length;i++){
+                        divs[i].classList.remove('animate')
+                    }
+                }
+            }
+         
+        })
+    </script>
+</body>
+</html>
